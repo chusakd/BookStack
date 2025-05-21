@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: BookStack
+  annotations:
+    github.com/project-slug: chusakd/BookStack
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Administrators
