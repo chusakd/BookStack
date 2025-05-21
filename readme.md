@@ -1,4 +1,4 @@
-# BookStack (Island-DP)
+# BookStack (Island-TechDocs)
 
 [![GitHub release](https://img.shields.io/github/release/BookStackApp/BookStack.svg)](https://github.com/BookStackApp/BookStack/releases/latest)
 [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/BookStackApp/BookStack/blob/development/LICENSE)
